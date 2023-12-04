@@ -1,0 +1,2 @@
+C:\Users\shashant\source\repos\JenkinDemoProject\JenkinDemoProject\obj\Debug\JenkinDemoProject.csproj.AssemblyReference.cache
+C:\Users\shashant\source\repos\JenkinDemoProject\JenkinDemoProject\obj\Debug\JenkinDemoProject.csproj.CoreCompileInputs.cache
